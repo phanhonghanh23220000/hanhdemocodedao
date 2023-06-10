@@ -1,0 +1,8 @@
+D:\c#\bangcuuchuong\bin\Debug\bangcuuchuong.exe.config
+D:\c#\bangcuuchuong\bin\Debug\bangcuuchuong.exe
+D:\c#\bangcuuchuong\bin\Debug\bangcuuchuong.pdb
+D:\c#\bangcuuchuong\obj\Debug\bangcuuchuong.csproj.AssemblyReference.cache
+D:\c#\bangcuuchuong\obj\Debug\bangcuuchuong.csproj.SuggestedBindingRedirects.cache
+D:\c#\bangcuuchuong\obj\Debug\bangcuuchuong.csproj.CoreCompileInputs.cache
+D:\c#\bangcuuchuong\obj\Debug\bangcuuchuong.exe
+D:\c#\bangcuuchuong\obj\Debug\bangcuuchuong.pdb

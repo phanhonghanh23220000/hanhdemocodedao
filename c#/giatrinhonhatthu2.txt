@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: giatrilonnhatthu2, Configuration: Debug Any CPU ------
+1>  giatrilonnhatthu2 -> D:\c#\giatrilonnhatthu2\bin\Debug\giatrilonnhatthu2.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 12:19 PM and took 00.225 seconds ==========

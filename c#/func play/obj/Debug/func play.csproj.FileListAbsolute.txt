@@ -1,0 +1,8 @@
+D:\c#\func play\bin\Debug\func play.exe.config
+D:\c#\func play\bin\Debug\func play.exe
+D:\c#\func play\bin\Debug\func play.pdb
+D:\c#\func play\obj\Debug\func play.csproj.AssemblyReference.cache
+D:\c#\func play\obj\Debug\func play.csproj.SuggestedBindingRedirects.cache
+D:\c#\func play\obj\Debug\func play.csproj.CoreCompileInputs.cache
+D:\c#\func play\obj\Debug\func play.exe
+D:\c#\func play\obj\Debug\func play.pdb

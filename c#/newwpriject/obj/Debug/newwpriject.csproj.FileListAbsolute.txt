@@ -1,0 +1,8 @@
+D:\c#\newwpriject\bin\Debug\newwpriject.exe.config
+D:\c#\newwpriject\bin\Debug\newwpriject.exe
+D:\c#\newwpriject\bin\Debug\newwpriject.pdb
+D:\c#\newwpriject\obj\Debug\newwpriject.csproj.AssemblyReference.cache
+D:\c#\newwpriject\obj\Debug\newwpriject.csproj.SuggestedBindingRedirects.cache
+D:\c#\newwpriject\obj\Debug\newwpriject.csproj.CoreCompileInputs.cache
+D:\c#\newwpriject\obj\Debug\newwpriject.exe
+D:\c#\newwpriject\obj\Debug\newwpriject.pdb

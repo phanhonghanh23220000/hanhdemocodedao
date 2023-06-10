@@ -1,0 +1,8 @@
+D:\c#\tong day so tu 1 den 2n+1\bin\Debug\tong day so tu 1 den 2n+1.exe.config
+D:\c#\tong day so tu 1 den 2n+1\bin\Debug\tong day so tu 1 den 2n+1.exe
+D:\c#\tong day so tu 1 den 2n+1\bin\Debug\tong day so tu 1 den 2n+1.pdb
+D:\c#\tong day so tu 1 den 2n+1\obj\Debug\tong day so tu 1 den 2n+1.csproj.AssemblyReference.cache
+D:\c#\tong day so tu 1 den 2n+1\obj\Debug\tong day so tu 1 den 2n+1.csproj.SuggestedBindingRedirects.cache
+D:\c#\tong day so tu 1 den 2n+1\obj\Debug\tong day so tu 1 den 2n+1.csproj.CoreCompileInputs.cache
+D:\c#\tong day so tu 1 den 2n+1\obj\Debug\tong day so tu 1 den 2n+1.exe
+D:\c#\tong day so tu 1 den 2n+1\obj\Debug\tong day so tu 1 den 2n+1.pdb

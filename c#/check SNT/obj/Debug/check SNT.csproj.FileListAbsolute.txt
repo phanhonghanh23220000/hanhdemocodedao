@@ -1,0 +1,8 @@
+D:\c#\check SNT\bin\Debug\check SNT.exe.config
+D:\c#\check SNT\bin\Debug\check SNT.exe
+D:\c#\check SNT\bin\Debug\check SNT.pdb
+D:\c#\check SNT\obj\Debug\check SNT.csproj.AssemblyReference.cache
+D:\c#\check SNT\obj\Debug\check SNT.csproj.SuggestedBindingRedirects.cache
+D:\c#\check SNT\obj\Debug\check SNT.csproj.CoreCompileInputs.cache
+D:\c#\check SNT\obj\Debug\check SNT.exe
+D:\c#\check SNT\obj\Debug\check SNT.pdb

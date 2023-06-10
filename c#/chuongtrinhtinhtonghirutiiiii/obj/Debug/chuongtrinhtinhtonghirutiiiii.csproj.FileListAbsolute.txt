@@ -1,0 +1,8 @@
+D:\c#\chuongtrinhtinhtonghirutiiiii\bin\Debug\chuongtrinhtinhtonghirutiiiii.exe.config
+D:\c#\chuongtrinhtinhtonghirutiiiii\bin\Debug\chuongtrinhtinhtonghirutiiiii.exe
+D:\c#\chuongtrinhtinhtonghirutiiiii\bin\Debug\chuongtrinhtinhtonghirutiiiii.pdb
+D:\c#\chuongtrinhtinhtonghirutiiiii\obj\Debug\chuongtrinhtinhtonghirutiiiii.csproj.AssemblyReference.cache
+D:\c#\chuongtrinhtinhtonghirutiiiii\obj\Debug\chuongtrinhtinhtonghirutiiiii.csproj.SuggestedBindingRedirects.cache
+D:\c#\chuongtrinhtinhtonghirutiiiii\obj\Debug\chuongtrinhtinhtonghirutiiiii.csproj.CoreCompileInputs.cache
+D:\c#\chuongtrinhtinhtonghirutiiiii\obj\Debug\chuongtrinhtinhtonghirutiiiii.exe
+D:\c#\chuongtrinhtinhtonghirutiiiii\obj\Debug\chuongtrinhtinhtonghirutiiiii.pdb

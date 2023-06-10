@@ -1,0 +1,8 @@
+D:\c#\baitinhtong1\bin\Debug\baitinhtong1.exe.config
+D:\c#\baitinhtong1\bin\Debug\baitinhtong1.exe
+D:\c#\baitinhtong1\bin\Debug\baitinhtong1.pdb
+D:\c#\baitinhtong1\obj\Debug\baitinhtong1.csproj.AssemblyReference.cache
+D:\c#\baitinhtong1\obj\Debug\baitinhtong1.csproj.SuggestedBindingRedirects.cache
+D:\c#\baitinhtong1\obj\Debug\baitinhtong1.csproj.CoreCompileInputs.cache
+D:\c#\baitinhtong1\obj\Debug\baitinhtong1.exe
+D:\c#\baitinhtong1\obj\Debug\baitinhtong1.pdb

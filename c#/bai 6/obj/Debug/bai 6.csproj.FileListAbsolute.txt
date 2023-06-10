@@ -1,0 +1,8 @@
+D:\c#\bai 6\bin\Debug\bai 6.exe.config
+D:\c#\bai 6\bin\Debug\bai 6.exe
+D:\c#\bai 6\bin\Debug\bai 6.pdb
+D:\c#\bai 6\obj\Debug\bai 6.csproj.AssemblyReference.cache
+D:\c#\bai 6\obj\Debug\bai 6.csproj.SuggestedBindingRedirects.cache
+D:\c#\bai 6\obj\Debug\bai 6.csproj.CoreCompileInputs.cache
+D:\c#\bai 6\obj\Debug\bai 6.exe
+D:\c#\bai 6\obj\Debug\bai 6.pdb

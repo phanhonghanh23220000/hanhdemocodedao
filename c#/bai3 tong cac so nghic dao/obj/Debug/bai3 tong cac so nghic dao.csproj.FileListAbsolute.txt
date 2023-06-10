@@ -1,0 +1,8 @@
+D:\c#\bai3 tong cac so nghic dao\bin\Debug\bai3 tong cac so nghic dao.exe.config
+D:\c#\bai3 tong cac so nghic dao\bin\Debug\bai3 tong cac so nghic dao.exe
+D:\c#\bai3 tong cac so nghic dao\bin\Debug\bai3 tong cac so nghic dao.pdb
+D:\c#\bai3 tong cac so nghic dao\obj\Debug\bai3 tong cac so nghic dao.csproj.AssemblyReference.cache
+D:\c#\bai3 tong cac so nghic dao\obj\Debug\bai3 tong cac so nghic dao.csproj.SuggestedBindingRedirects.cache
+D:\c#\bai3 tong cac so nghic dao\obj\Debug\bai3 tong cac so nghic dao.csproj.CoreCompileInputs.cache
+D:\c#\bai3 tong cac so nghic dao\obj\Debug\bai3 tong cac so nghic dao.exe
+D:\c#\bai3 tong cac so nghic dao\obj\Debug\bai3 tong cac so nghic dao.pdb

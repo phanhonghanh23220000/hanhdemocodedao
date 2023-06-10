@@ -1,0 +1,8 @@
+D:\c#\kt so chinh phuong\bin\Debug\kt so chinh phuong.exe.config
+D:\c#\kt so chinh phuong\bin\Debug\kt so chinh phuong.exe
+D:\c#\kt so chinh phuong\bin\Debug\kt so chinh phuong.pdb
+D:\c#\kt so chinh phuong\obj\Debug\kt so chinh phuong.csproj.AssemblyReference.cache
+D:\c#\kt so chinh phuong\obj\Debug\kt so chinh phuong.csproj.SuggestedBindingRedirects.cache
+D:\c#\kt so chinh phuong\obj\Debug\kt so chinh phuong.csproj.CoreCompileInputs.cache
+D:\c#\kt so chinh phuong\obj\Debug\kt so chinh phuong.exe
+D:\c#\kt so chinh phuong\obj\Debug\kt so chinh phuong.pdb

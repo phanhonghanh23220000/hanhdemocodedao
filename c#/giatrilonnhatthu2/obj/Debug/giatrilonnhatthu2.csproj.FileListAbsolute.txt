@@ -1,0 +1,8 @@
+D:\c#\giatrilonnhatthu2\bin\Debug\giatrilonnhatthu2.exe.config
+D:\c#\giatrilonnhatthu2\bin\Debug\giatrilonnhatthu2.exe
+D:\c#\giatrilonnhatthu2\bin\Debug\giatrilonnhatthu2.pdb
+D:\c#\giatrilonnhatthu2\obj\Debug\giatrilonnhatthu2.csproj.AssemblyReference.cache
+D:\c#\giatrilonnhatthu2\obj\Debug\giatrilonnhatthu2.csproj.SuggestedBindingRedirects.cache
+D:\c#\giatrilonnhatthu2\obj\Debug\giatrilonnhatthu2.csproj.CoreCompileInputs.cache
+D:\c#\giatrilonnhatthu2\obj\Debug\giatrilonnhatthu2.exe
+D:\c#\giatrilonnhatthu2\obj\Debug\giatrilonnhatthu2.pdb

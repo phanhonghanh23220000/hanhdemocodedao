@@ -1,0 +1,8 @@
+D:\c#\tong binhphuong1 -n\bin\Debug\tong binhphuong1 -n.exe.config
+D:\c#\tong binhphuong1 -n\bin\Debug\tong binhphuong1 -n.exe
+D:\c#\tong binhphuong1 -n\bin\Debug\tong binhphuong1 -n.pdb
+D:\c#\tong binhphuong1 -n\obj\Debug\tong binhphuong1 -n.csproj.AssemblyReference.cache
+D:\c#\tong binhphuong1 -n\obj\Debug\tong binhphuong1 -n.csproj.SuggestedBindingRedirects.cache
+D:\c#\tong binhphuong1 -n\obj\Debug\tong binhphuong1 -n.csproj.CoreCompileInputs.cache
+D:\c#\tong binhphuong1 -n\obj\Debug\tong binhphuong1 -n.exe
+D:\c#\tong binhphuong1 -n\obj\Debug\tong binhphuong1 -n.pdb

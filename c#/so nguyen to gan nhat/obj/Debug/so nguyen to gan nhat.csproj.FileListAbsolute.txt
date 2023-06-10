@@ -1,0 +1,8 @@
+D:\c#\so nguyen to gan nhat\bin\Debug\so nguyen to gan nhat.exe.config
+D:\c#\so nguyen to gan nhat\bin\Debug\so nguyen to gan nhat.exe
+D:\c#\so nguyen to gan nhat\bin\Debug\so nguyen to gan nhat.pdb
+D:\c#\so nguyen to gan nhat\obj\Debug\so nguyen to gan nhat.csproj.AssemblyReference.cache
+D:\c#\so nguyen to gan nhat\obj\Debug\so nguyen to gan nhat.csproj.SuggestedBindingRedirects.cache
+D:\c#\so nguyen to gan nhat\obj\Debug\so nguyen to gan nhat.csproj.CoreCompileInputs.cache
+D:\c#\so nguyen to gan nhat\obj\Debug\so nguyen to gan nhat.exe
+D:\c#\so nguyen to gan nhat\obj\Debug\so nguyen to gan nhat.pdb

@@ -1,0 +1,8 @@
+D:\c#\SONGUYENTOGANB\bin\Debug\SONGUYENTOGANB.exe.config
+D:\c#\SONGUYENTOGANB\bin\Debug\SONGUYENTOGANB.exe
+D:\c#\SONGUYENTOGANB\bin\Debug\SONGUYENTOGANB.pdb
+D:\c#\SONGUYENTOGANB\obj\Debug\SONGUYENTOGANB.csproj.AssemblyReference.cache
+D:\c#\SONGUYENTOGANB\obj\Debug\SONGUYENTOGANB.csproj.SuggestedBindingRedirects.cache
+D:\c#\SONGUYENTOGANB\obj\Debug\SONGUYENTOGANB.csproj.CoreCompileInputs.cache
+D:\c#\SONGUYENTOGANB\obj\Debug\SONGUYENTOGANB.exe
+D:\c#\SONGUYENTOGANB\obj\Debug\SONGUYENTOGANB.pdb

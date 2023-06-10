@@ -1,0 +1,8 @@
+D:\c#\so nho nhat\bin\Debug\so nho nhat.exe.config
+D:\c#\so nho nhat\bin\Debug\so nho nhat.exe
+D:\c#\so nho nhat\bin\Debug\so nho nhat.pdb
+D:\c#\so nho nhat\obj\Debug\so nho nhat.csproj.AssemblyReference.cache
+D:\c#\so nho nhat\obj\Debug\so nho nhat.csproj.SuggestedBindingRedirects.cache
+D:\c#\so nho nhat\obj\Debug\so nho nhat.csproj.CoreCompileInputs.cache
+D:\c#\so nho nhat\obj\Debug\so nho nhat.exe
+D:\c#\so nho nhat\obj\Debug\so nho nhat.pdb

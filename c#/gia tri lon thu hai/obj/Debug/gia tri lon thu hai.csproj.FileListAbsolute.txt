@@ -1,0 +1,3 @@
+D:\c#\gia tri lon thu hai\obj\Debug\gia tri lon thu hai.csproj.AssemblyReference.cache
+D:\c#\gia tri lon thu hai\obj\Debug\gia tri lon thu hai.csproj.SuggestedBindingRedirects.cache
+D:\c#\gia tri lon thu hai\obj\Debug\gia tri lon thu hai.csproj.CoreCompileInputs.cache

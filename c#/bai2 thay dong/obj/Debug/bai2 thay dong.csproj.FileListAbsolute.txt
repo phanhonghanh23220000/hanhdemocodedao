@@ -1,0 +1,8 @@
+D:\c#\bai2 thay dong\bin\Debug\bai2 thay dong.exe.config
+D:\c#\bai2 thay dong\bin\Debug\bai2 thay dong.exe
+D:\c#\bai2 thay dong\bin\Debug\bai2 thay dong.pdb
+D:\c#\bai2 thay dong\obj\Debug\bai2 thay dong.csproj.AssemblyReference.cache
+D:\c#\bai2 thay dong\obj\Debug\bai2 thay dong.csproj.SuggestedBindingRedirects.cache
+D:\c#\bai2 thay dong\obj\Debug\bai2 thay dong.csproj.CoreCompileInputs.cache
+D:\c#\bai2 thay dong\obj\Debug\bai2 thay dong.exe
+D:\c#\bai2 thay dong\obj\Debug\bai2 thay dong.pdb

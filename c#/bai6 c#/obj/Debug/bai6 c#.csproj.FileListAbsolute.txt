@@ -1,0 +1,8 @@
+D:\c#\bai6 c#\bin\Debug\bai6 c#.exe.config
+D:\c#\bai6 c#\bin\Debug\bai6 c#.exe
+D:\c#\bai6 c#\bin\Debug\bai6 c#.pdb
+D:\c#\bai6 c#\obj\Debug\bai6 c#.csproj.AssemblyReference.cache
+D:\c#\bai6 c#\obj\Debug\bai6 c#.csproj.SuggestedBindingRedirects.cache
+D:\c#\bai6 c#\obj\Debug\bai6 c#.csproj.CoreCompileInputs.cache
+D:\c#\bai6 c#\obj\Debug\bai6 c#.exe
+D:\c#\bai6 c#\obj\Debug\bai6 c#.pdb

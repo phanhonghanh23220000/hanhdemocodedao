@@ -1,0 +1,8 @@
+D:\c#\Array SE06205\bin\Debug\Array SE06205.exe.config
+D:\c#\Array SE06205\bin\Debug\Array SE06205.exe
+D:\c#\Array SE06205\bin\Debug\Array SE06205.pdb
+D:\c#\Array SE06205\obj\Debug\Array SE06205.csproj.AssemblyReference.cache
+D:\c#\Array SE06205\obj\Debug\Array SE06205.csproj.SuggestedBindingRedirects.cache
+D:\c#\Array SE06205\obj\Debug\Array SE06205.csproj.CoreCompileInputs.cache
+D:\c#\Array SE06205\obj\Debug\Array SE06205.exe
+D:\c#\Array SE06205\obj\Debug\Array SE06205.pdb
